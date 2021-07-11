@@ -48,7 +48,7 @@ section,
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 22px;
-  margin-bottom: 60px;
+  margin: 0 60px 60px 0;
 
   .standart {
       font-family: 'OpenSans-Regular', sans-serif;
